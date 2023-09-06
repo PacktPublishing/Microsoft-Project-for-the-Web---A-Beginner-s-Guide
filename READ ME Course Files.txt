@@ -1,0 +1,1 @@
+Some course files were intentionally left blank as the lesson where the files are used shows how to upload a word/excel/pdf to a task in Project, so it shouldn't matter if the files are blank or not as they were not opened at all.
